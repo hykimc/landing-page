@@ -1,0 +1,19 @@
+{
+    "name": "landingpage",
+    "version": "1.0.0",
+    "description": "**The Landing Page Project**",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hykimc/Landing-Page-Hykmc.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/hykimc/Landing-Page-Hykmc/issues"
+    },
+    "homepage": "https://github.com/hykimc/Landing-Page-Hykmc#readme"
+  }
