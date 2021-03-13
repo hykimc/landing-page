@@ -1,5 +1,5 @@
-Getting Started
-Introduction
+# Getting Started
+## Introduction
 This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
 Project Rubric
@@ -29,38 +29,36 @@ How do you use the className property? What does it return, and why would it be 
 What are the different methods for classList?
 Hint: the add(), remove(), and toggle() methods look particularly useful...
 Every element has an innerHTML property that represents the markup of the element's content. How can you leverage this property to get and set content?
-**PROJECT SPECIFICATION**
+# PROJECT SPECIFICATION
 Landing Page
 
-- Interface and Architecture
-- Architecture
-CRITERIA
+## Interface and Architecture
+### Architecture
+
 The project should have a structure like the one shown below. All files shown must be present and the app must successfully render a home page with clear design and functionality added when index.html is loaded in the browser. No errors should display in console.
 
-MEETS SPECIFICATIONS
+**SPECIFICATIONS**
 css
-- styles.css    
-index.html
+- styles.css   [X] 
+index.html [X]
 js
-- app.js
-README.md
-Usability
+- app.js [X]
+README.md [X]
+Usability [X]
 
 All features are usable across modern desktop, tablet, and phone browsers.
 
-- Styling
+### Styling
 
 Styling has been added for active states.
 
-HTML Structure
+### HTML Structure
 
 There are at least 4 sections that have been added to the page.
 
-Landing Page Behavior
+## Landing Page Behavior
 
-CRITERIA
-MEETS SPECIFICATIONS
-Navigation
+### Navigation
 
 Navigation is built dynamically as an unordered list.
 
@@ -68,36 +66,32 @@ Section Active State
 
 It should be clear which section is being viewed while scrolling through the page.
 
-Scroll to Anchor
+### Scroll to Anchor
 
 When clicking an item from the navigation menu, the link should scroll to the appropriate section.
 
-Documentation
+## Documentation
 
 CRITERIA
 MEETS SPECIFICATIONS
-README
+### README
 
 The ReadMe file should have non-default text in it that is specific to this project. It doesn’t have to be thorough, but should have some basic information, and use correct markdown.
 
-Comments
+### Comments
 
 Comments are present and effectively explain longer code procedure when necessary.
 
-Code Quality
+### Code Quality
 
 Code is formatted with consistent, logical, and easy-to-read formatting as described in the Udacity JavaScript Style Guide.
 
-Untitled
-
-CRITERIA
-MEETS SPECIFICATIONS
-Suggestions to Make Your Project Stand Out!
+## Suggestions to Make Your Project Stand Out!
 See the "Suggested" items section in Development Strategy in the classroom.
 
 Add an active state to your navigation items when a section is in the viewport.
 Hide fixed navigation bar while not scrolling (it should still be present on page load).
-Hint: setTimeout can be used to check when the user is no longer scrolling.
+**Hint**: setTimeout can be used to check when the user is no longer scrolling.
 Add a scroll to top button on the page that’s only visible when the user scrolls below the fold of the page.
 Update/change the design/content.
 Make sections collapsible.
