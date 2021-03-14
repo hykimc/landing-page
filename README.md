@@ -8,7 +8,7 @@ Your project will be evaluated by a Udacity code reviewer according to the Landi
 Get the Starter Code
 If you'd like to start from scratch without any files, you are encouraged to do so! You learn the most by developing on your own! But, it can be a bit challenging having to start from scratch, so we do provide a starter project (i.e., a "skeleton") to use.
 
-You can download the starter code here by cloning the specific branch 'refresh-2019'.
+[X] >You can download the starter code here by cloning the specific branch 'refresh-2019'.
 
 The starter code has a static, non-interactive version of the project so you can get a jump-start on development!
 
@@ -39,53 +39,36 @@ The project should have a structure like the one shown below. All files shown mu
 
 **SPECIFICATIONS**
 css
-- styles.css   [X] 
-index.html [X]
+- [X] styles.css    
+[X] index.html 
 js
-- app.js [X]
-README.md [X]
-Usability [X]
-
+- [X] app.js 
+[X]README.md 
+**Usability**
 All features are usable across modern desktop, tablet, and phone browsers.
 
 ### Styling
-
-Styling has been added for active states.
+[X] Styling has been added for active states.
+*as well for sections as for menu bar*
 
 ### HTML Structure
-
-There are at least 4 sections that have been added to the page.
+[X] There are at least 4 sections that have been added to the page.
 
 ## Landing Page Behavior
-
 ### Navigation
-
-Navigation is built dynamically as an unordered list.
-
-Section Active State
-
-It should be clear which section is being viewed while scrolling through the page.
-
+[X] Navigation is built dynamically as an unordered list.
+### Section Active State
+[X] It should be clear which section is being viewed while scrolling through the page.
+*I have chosen the logic the nearest to the top ist current active section*
 ### Scroll to Anchor
-
-When clicking an item from the navigation menu, the link should scroll to the appropriate section.
-
+[X] When clicking an item from the navigation menu, the link should scroll to the appropriate section. 
 ## Documentation
-
-CRITERIA
-MEETS SPECIFICATIONS
 ### README
-
-The ReadMe file should have non-default text in it that is specific to this project. It doesn’t have to be thorough, but should have some basic information, and use correct markdown.
-
+[X] The ReadMe file should have non-default text in it that is specific to this project. It doesn’t have to be thorough, but should have some basic information, and use correct markdown. 
 ### Comments
-
 Comments are present and effectively explain longer code procedure when necessary.
-
 ### Code Quality
-
 Code is formatted with consistent, logical, and easy-to-read formatting as described in the Udacity JavaScript Style Guide.
-
 ## Suggestions to Make Your Project Stand Out!
 See the "Suggested" items section in Development Strategy in the classroom.
 
